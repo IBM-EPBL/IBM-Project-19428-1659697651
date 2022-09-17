@@ -1,0 +1,8 @@
+References
+
+[1] “Who Owns Medical Records: 50 State Comparison.” Health Information and the Law. George Washington University Hirsh Health Law and Policy Program.
+[Aug. 20, 2015 ]. [Online]
+[2] “A Systematic Review of the Use of Blockchain in Healthcare” Faculty of Electrical Engineering and Computer Science, University of Maribor, Maribor 2000, Slovenia [ 10 October 2018. [Online]
+[3] “HIPAA Administrative Simplification ” Public Standards and Patients' Control: how to keep electronic medical records accessible but private.Kenneth D., David Markwell, Rhona MacDonald, Peter Szolovits, and Isaac S. Kohane [Online]
+[4] “Office of the National Coordinator for Health Information Technology.” Connecting Health and Care for the Nation: A shared nationwide interoperability roadmap.
+[5] “The Patient Record: health design challenge.” The Office of the National Coordinator for Health Information Technology, U.S. Department of Veterans Affairs.
