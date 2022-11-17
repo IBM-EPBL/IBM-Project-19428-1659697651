@@ -10,14 +10,14 @@
 
 ---
 **Industry Mentor(s) Name :** DIVYA  <br>
-**Faculty Mentor(s) Name :** JEYALAKSHMI J
-
----
+**Faculty Mentor(s) Name  :** JEYALAKSHMI J
 
 **Degree	:**	Bachelor of Engineering/Technology <br>
 **Branch	:**	Computer Science Engineering <br>
 **College	:**	Rajalakshmi Engineering College
+
 ---
+
 
 
 
