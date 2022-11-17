@@ -9,15 +9,15 @@
 **Team member :** POOJA V
 
 ---
-**Industry Mentor(s) Name :** DIVYA 
+**Industry Mentor(s) Name :** DIVYA  <br>
 **Faculty Mentor(s) Name :** JEYALAKSHMI J
 
 ---
 
 **Degree	:**	
-Bachelor of Engineering/Technology
+Bachelor of Engineering/Technology <br>
 **Branch	:**	
-Computer Science Engineering
+Computer Science Engineering <br>
 **College	:**	
 RAJALAKSHMI ENGINEERING COLLEGE
 ---
