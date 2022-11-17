@@ -14,12 +14,9 @@
 
 ---
 
-**Degree	:**	
-Bachelor of Engineering/Technology <br>
-**Branch	:**	
-Computer Science Engineering <br>
-**College	:**	
-RAJALAKSHMI ENGINEERING COLLEGE
+**Degree	:**	Bachelor of Engineering/Technology <br>
+**Branch	:**	Computer Science Engineering <br>
+**College	:**	Rajalakshmi Engineering College
 ---
 
 
