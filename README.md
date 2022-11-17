@@ -2,10 +2,10 @@
 
 ---
 
-**Team Size :** 4
-**Team Leader :** NAVEEN KUMAR M 
-**Team member :** PRIYADARSHINE K 
-**Team member :** MITHUL KRISHNA B S
+**Team Size :** 4 <br>
+**Team Leader :** NAVEEN KUMAR M <br>
+**Team member :** PRIYADARSHINE K <br>
+**Team member :** MITHUL KRISHNA B S <br>
 **Team member :** POOJA V
 
 ---
